@@ -1,0 +1,2 @@
+Do not deploy on Friday afternoon, no matter how small the change looks.
+That one deploy cost you the whole weekend, and it taught you that small changes are never small at 5 p.m. on a Friday.
